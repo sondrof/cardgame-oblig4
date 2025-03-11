@@ -1,0 +1,9 @@
+# IntelliJ-specific files
+.idea/
+*.iml
+
+# Maven build directories
+target/
+.mvn/
+logs/
+*.log
